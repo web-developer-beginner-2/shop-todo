@@ -1,0 +1,69 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+
+.text_to {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-top: 30px;
+
+}
+
+
+.inp {
+     position: relative;
+     left: 720px;
+     border: 2px solid #007FFF;
+     border-radius: 10px;
+     width: 291px;
+     height: 42px;
+     margin-top: 30px;
+}
+
+.add {
+    position: relative;
+    left: 725px;
+    height: 42px;
+    background: #0071E3;
+    border-radius: 10px; 
+    width: 155px;
+    height: 42px;
+    border: none;
+    color: white;
+}
+
+ 
+
+.to_do_block {
+    width: 282px;
+    height: 90px;
+
+    background: #F0F0F0;
+    border: 1px solid #007FFF;
+    border-radius: 10px;
+    margin-top:   60px;
+    margin-left: 450px;
+}
+
+
+.milk {
+    padding-top: 15px;
+    padding-left: 25px;
+    font-size: 20px;    
+}
+
+.minute {
+    color: gray;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+
+img {
+    position: relative;
+    bottom: 50px;
+    padding-left: 245px;
+}
